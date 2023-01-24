@@ -1,4 +1,6 @@
-# home-automation
+home-automation
+===================================
+![](./images/logo_1MB.png)  
 Home automation boards, based on NodeMCU.  
 ## Boards
-* [RGBWController](./RGBWController)
+* [RGBWController](./RGBWController): 12V RGBW Led Strip Controller

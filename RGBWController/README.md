@@ -4,7 +4,7 @@ RGBWController - led strip controller
 # What is `RGBWController`?
 It's a board to automate and control an RGBW led strip, based on NodeMcu-LoLin V3.  
 ## :warning: Warnings
-This board is prototype, <u>not a product</u>.
+This board is prototype, not a product.
 Consider to use it for test and learning mechanism.  
 I advise the reader that I'm not responsible for the usage and every damages that may occur using and building the board.
 ## Description
@@ -77,7 +77,7 @@ For installation the suggestion is to visit official [HomeBridge](https://homebr
 ## Plugin
 The plugin to install for this device is [homebridge-sonoff-tasmota-mqtt-hsb](https://github.com/matt-downs/homebridge-sonoff-tasmota-mqtt-hsb).
 The configuration is the following
-```
+``` javascript
     {
         "accessory": "sonoff-tasmota-mqtt-hsb",
         "name": "$name_to_see_on_home_app$",
